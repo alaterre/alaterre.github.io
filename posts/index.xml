@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alex Ltr</title>
+    <link>https://alaterre.github.io/posts/</link>
+    <description>Recent content in Posts on Alex Ltr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jul 2021 18:47:40 +0100</lastBuildDate><atom:link href="https://alaterre.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mava</title>
+      <link>https://alaterre.github.io/posts/mava/</link>
+      <pubDate>Tue, 06 Jul 2021 18:47:40 +0100</pubDate>
+      
+      <guid>https://alaterre.github.io/posts/mava/</guid>
+      
+        <description>Mava: A new Framework for Multi-Agent Reinforcement Learning Mava: A new Framework for Multi-Agent Reinforcement Learning</description>
+      
+    </item>
+    
+    <item>
+      <title>Accelerated Architecture for Reinforcement Learning in Jax</title>
+      <link>https://alaterre.github.io/posts/jax-rl/</link>
+      <pubDate>Tue, 15 Dec 2020 23:36:27 +0100</pubDate>
+      
+      <guid>https://alaterre.github.io/posts/jax-rl/</guid>
+      
+        <description>todo list
+   Intrigue by JAX, the new cool kid on the block?</description>
+      
+    </item>
+    
+    <item>
+      <title>alex</title>
+      <link>https://alaterre.github.io/posts/anakin/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alaterre.github.io/posts/anakin/</guid>
+      
+        <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
